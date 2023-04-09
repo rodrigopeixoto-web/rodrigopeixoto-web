@@ -1,6 +1,7 @@
 - 👋 Rodrigo Peixoto (rodrigopeixoto-web / rodrigopeixoto.web )
 - 👀 Busco sempre por novidades em programação geral, especialmente web.
-- 🌱 Atualmente estou estudando a framework Laravel.
+- 🌱 Analista de sistemas Sênior Fullstack, e um pouco de experiência em business intelligence.
+Especialista em desenvolvimento web e mobile, utilizando tecnologias como PHP, Javascript, Python, MySQL, Git, Github, Gitlab, Bitbucket, Linux, Windows, entre outras.
 - 📫 Como me encontrar:
       +55 21 9 83236196
       rodrigopeixoto.web@gmail.com
